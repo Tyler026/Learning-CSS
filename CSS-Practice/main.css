@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Kanit', sans-serif;
+}
+
+.second-element code {
+    color: green;
+}
+
+code {
+    font-family: monospace;
+    color: red;
+}
+
+li {
+    font-family: monospace;
+}
+
+li + li {
+    background: black;
+    color: white;
+}
+
+ol  li {
+    background: black;
+    color: white;
+}
