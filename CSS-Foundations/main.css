@@ -5,15 +5,8 @@ body {
 
 #product-overview {
     background: #ff1b68;
-    padding: 20px;
-    border: 5px black solid;
-    margin: 20px; /*Short Hand*/
-
-    /*Long Hand*/
-    /* margin-top: 20px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px; */
+    width: 700px;
+    height: 528px;
 }
 
 .section-title {
