@@ -1,0 +1,40 @@
+html,
+body {
+    height: 100%;
+}
+
+.box {
+    border: 5px solid red;  
+    padding: 5px 10px 20px 30px;
+    margin: 5px 10px 20px 30px;
+
+    height: 300px;
+    width: 30%;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+#first-box {
+    visibility: hidden;
+}
+
+div:last-of-type:hover {
+    border-color: green;
+}
+
+/* .box {
+    border-top: 3px;
+    border-right: 6px;
+    border-bottom: 9px;
+    border-left: 12px;
+
+    border-top: solid;
+    border-right: solid;
+    border-bottom: solid;
+    border-left: solid;
+
+    border-top-color: red;
+    border-right-color: red;
+    border-bottom-color: red;
+    border-left-color: red;
+} */
